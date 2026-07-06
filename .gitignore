@@ -1,4 +1,4 @@
-.env.actual
+.env
 node_modules
 dist
 
